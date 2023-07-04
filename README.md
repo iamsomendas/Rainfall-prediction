@@ -1,4 +1,3 @@
 # Rainfall-prediction
-It's my first small project using Linear Regression.
-I have used Linear Regression model and predicted rain PrecipitationSumInches.
-I have also visulized the data.
+Created a model where it predicts how much it's going to rain by all the required factors(data).
+I have used Linear Regression model to predicted rain PrecipitationSumInches and also vizualized the data.
